@@ -1,6 +1,6 @@
 # is-first-npm-package
 
 
-const isWds = require("is-first")
+const isFirst = require("is-first")
 
-isWds("first")
+isFirst("first")
