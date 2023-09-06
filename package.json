@@ -1,6 +1,6 @@
 {
-  "name": "is-first",
-  "version": "1.0.2",
+  "name": "@first/is-first",
+  "version": "1.0.3",
   "description": "Is the string WDS?",
   "main": "index.js",
   "scripts": {
